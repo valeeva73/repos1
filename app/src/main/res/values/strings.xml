@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">rrr</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Listen</string>
+    <string name="title_notifications">Profile</string>
+    <string name="title_activity_menu2">MenuActivity2</string>
+</resources>
